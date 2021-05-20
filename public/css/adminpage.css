@@ -1,0 +1,124 @@
+.container-bk{
+    background-color: #090C98
+}
+.logoimg{
+    width: 270px;
+    height: 60px;
+    margin-left: -15px;
+    border: 0;
+}
+.adminloginfrmcontainer{
+	width: 40%;
+    padding: 50px;
+    margin: 100px auto 30px auto;
+    border: 1px solid #e3e3e3;
+    border-radius: 15px;
+    background-color: #4e73df;
+    min-width: 330px;
+    color: #ffffff;
+}
+
+.row-col-title
+{
+    ext-align: left;
+    padding-left: 50px;
+    color: #FFFFFF;
+    font-size: 2rem;
+    line-height: 50px;
+}
+
+@media (max-width:767px) {
+    .adminloginfrmcontainer{
+        width: 40%;
+        padding: 50px;
+        margin: 10px auto 30px auto;
+        border: 1px solid #e3e3e3;
+        border-radius: 15px;
+        background-color: #4e73df;
+        min-width: 330px;
+        color: #ffffff;
+    }
+    .row-col-title{
+        font-size: 1.3rem;
+        text-align:center;
+    }
+}
+
+.line-show-left{
+    border-left: 1px solid #99b1b3
+}
+.line-show-right{
+    border-right: 1px solid #99b1b3
+}
+.line-show-top{
+    border-top: 1px solid #99b1b3
+}
+.line-show-bottom{
+    border-bottom: 1px solid #99b1b3
+}
+.col-admin-colum-ctrl{
+	line-height: 55px;
+}
+.col-admin-colume
+{
+	padding:7px;
+	text-align:left;
+	overflow-wrap: break-word;
+}
+.col-admin-1
+{
+    width: 10%;
+
+}
+.col-admin-1-5
+{
+    width: 15%;
+}
+.col-admin-2
+{
+    width: 20%;
+}
+.col-admin-2-5
+{
+    width: 25%;
+}
+.col-admin-3
+{
+    width: 30%;
+}
+.col-admin-4
+{
+    width: 40%;
+}
+.col-admin-5
+{
+    width: 50%;
+}
+.col-admin-6
+{
+    width: 60%;
+}
+.col-admin-7
+{
+    width: 70%;
+}
+.col-admin-8
+{
+    width: 80%;
+}
+.col-admin-9
+{
+    width: 90%;
+}
+.col-admin-10
+{
+    width: 100%;
+}
+.title-row
+{
+    background-color: #64B4F5;
+    justify-content: center;
+	text-align: center;
+	line-height: 2.9rem;
+    color:#FFFFFF;
+}

@@ -1,0 +1,56 @@
+{
+
+    "mu_Dashboard": "",
+    "mu_Dashboard_Dashboards": "",
+    "mu_Dashboard_Analytics": "",
+    "mu_Dashboard_Studiocloud": "",
+    "mu_Dashboard_DUser": "",
+
+
+    "mu_Apps": "",
+    "mu_Apps_Apps": "",
+    "mu_Apps_Website": "",
+    "mu_Apps_Website_Appearance": "",
+    "mu_Apps_Website_Pages": "",
+    "mu_Apps_Website_Function": "",
+    "mu_Apps_Website_Template": "",
+    "mu_Apps_Affairs": "",
+    "mu_Apps_Affairs_Management": "",
+    "mu_Apps_Studiocloud": "",
+
+
+    "mu_Users": "",
+    "mu_Users_Users": "",
+    "mu_Users_Organization": "",
+    "mu_Users_Individual": "",
+
+
+    "mu_Webs": "",
+    "mu_Webs_Webs": "",
+    "mu_Webs_WES": "",
+    "mu_Webs_Studiocloud": "",
+
+
+    "mu_Others": "",
+    "mu_Others_Others": "",
+    "mu_Others_EmailTemplates": "",
+    "mu_Others_EmailTemplates_Basic": "",
+    "mu_Others_EmailTemplates_Alert": "",
+    "mu_Others_EmailTemplates_Billing": "",
+    "mu_Others_MenuLevel": "",
+
+
+    "mu_System": "",
+    "mu_System_System": "",
+    "mu_System_Setting": "",
+    "mu_System_Setting_Language": "",
+    "mu_apps_website_fields": "",
+    "mu_System_SUser": "",
+    "mu_System_SUser_Account": "",
+    "mu_System_SUser_Page": "",
+    "mu_System_Management": "",
+    "mu_System_Management_Users": "",
+    "mu_System_Management_Roles": "",
+    "mu_System_Management_Permissions": ""
+
+}

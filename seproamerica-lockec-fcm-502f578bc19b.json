@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seproamerica-lockec-fcm",
+  "private_key_id": "502f578bc19b44319eab70d28e7abbb0f0092726",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9uPebAzbFYA58\nF1iATM8TGGYNJSu4L0BudMHXMeEpkc6xQMDYfYqn2hM5dvS/woujs159Eav1yVMh\nJCA26pCfb98TzNSQe5I2PnTavRp6hszJGihLGld5mvt/vPSeyMV7oXnuqbytWRvl\nm/uLXtGTIQB3/ZNRgDjDv3YCzMX1L7FlI4yQoMrD2ZsgkzD/PRewKx1+iWfZH4+Z\nKAfgtBjT4WF6TJIeoUt/1wXmQZ4DTfP/3fpJ6FpX/oLfnV/glrS9GB6uTUKFYh5i\n/AVN+AoJ49VDhJ8WZyke5LEtY5ul+or9vqm6KrZMhhMXUhePzQ8GUTSmAg6a5+db\n3kLhVN/BAgMBAAECggEAEe6SpfnMH88Fb3XRbUb/54EjMX41lKdlV/X8gEzRna6P\nXQeOx/zjBxxrPBTh6zdbIBzgWG08K0iybRZ6CQFrVqEp8jgmUIWteye0vxv9OF7X\nVPFTpPhCE6yyCrp0WzGvdhD8HQe5XUpn2EWW+pmlW1pU2K0vUxZjHHVTP85/rhMq\n4ugEXPUTiPwYdhvrRbseEcb719paS2LM1F28y42D3tpnUN/YX00ZNFwKDk9G9T4Z\n1Dw5eZWm/FYLIVcgb04WSpLckE0wbsg5JFgoWQzvFKKX+9BK3o3OMwBmT+rBLUMV\n/f2YP963taixunJzje4KVRaHz5CjcvG3cp5ka+DxBQKBgQD8gW9IY/xGrApm9x9j\nYkXZoxrFfqIj2mSg5eetUBWQuMsz5iATa1VbXGBfA673azCu/swukG83ZgdLlbUf\n/lK4Idb45bBu2NFg04kTUOwMf40HJkeL9zcWQSHLymxUu6Yv3LYGUpilJh1Q5U9K\nDjSfIGq5F32v0eYJcXaInhFvIwKBgQDAWRuFMsTCVKHOnD7/ZoG9t8Yz+2eAJuk2\nAwhR6lRps16M4jjej83MLY0eAXj2D3eqN3D4/JWyvWivA5x9nDTnp0LIAOJWgZkw\nNWV/saOTkL6fj9uGo+RX4N0c1fcptaAWCgDmZ+AAaQ4DfOdf5vLdrIdgibfdTseM\n7SAsWDq1ywKBgAp52EMZmtrXwmq5L/0wk5NO+ApfkZyJMAmY4D7JhsuFTzDtCEGl\n/1mWAI2Qmo67TL7F5XS9G1AiFIVnRad5Jrdq9/9FkEdZCX7J5/L8NX7jP9efF/LP\no+Jxe1R4JnxxeJidwJOMk7auWSMFEIATDM3ZS3Q4bEeCHtgfc/qBDFofAoGAdpq7\ngH+UmeuLtpXbtqqjl7NpEQaVhIz5wqdOCwy+Lks/IwofXQU5NgxkdrsbtkZFWH1F\nORKuz/9BPKGybjXS3YDiiecZqZPSPMrAImQL5GMdV9Bh4fzPQWzTiwNYm6x14QEc\nGva0RiyBSp9LIHSNDylidKGW8WyxWXGiJBXnZc8CgYAwtVjfEMC8ABhEnInTa9sM\ngnVh6ArckWVdF3mcZs9rXIHZs9TjcilD3VgIbkIufA+0Gbumpz5mg+cIAhfK8hDa\n63FPjAcII8U5+gJUkR2KtGRyoxDzGIeBxGxZME9didmv7DyophRbQUMpWvgOFGGt\nSCV8lIuCQrMTb9e8Wj2urw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wes-translate@seproamerica-lockec-fcm.iam.gserviceaccount.com",
+  "client_id": "114222843530313826230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wes-translate%40seproamerica-lockec-fcm.iam.gserviceaccount.com"
+}
